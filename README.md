@@ -4,7 +4,7 @@
 
 ---
 
-Live at [Kaggle](https://www.kaggle.com/code/muhammadwaqas630/insights-from-millions-google-play-store-eda/notebook)
+To see [Live at Kaggle](https://www.kaggle.com/code/muhammadwaqas630/insights-from-millions-google-play-store-eda/notebook)
 
 ---
 
