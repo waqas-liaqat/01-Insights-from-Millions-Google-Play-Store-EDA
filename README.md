@@ -13,11 +13,11 @@ To see [Live at Kaggle](https://www.kaggle.com/code/muhammadwaqas630/insights-fr
 2. [Dataset Information](#dataset-information)
 3. [Data Cleaning](#data-cleaning)
 4. [Exploratory Data Analysis](#exploratory-data-analysis)
-5. [Insights & Visualizations](#insights--visualizations)
-6. [Conclusion](#conclusion)
+5. [Deeper Observations](#Deeper-Observations)
+6. [Questions & Answers](#Questions-&-Answers)
 7. [Technologies Used](#technologies-used)
-8. [How to Run the Project](#how-to-run-the-project)
-9. [Acknowledgments](#acknowledgments)
+8. [Acknowledgments](#Acknowledgments)
+9. [Connect with Me](#Connect-with-Me)
 
 ---
 
